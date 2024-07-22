@@ -11,6 +11,9 @@
   "dependencies": {
     "@clerk/nextjs": "^5.1.5",
     "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-toast": "^1.2.1",
+    "@stream-io/node-sdk": "^0.3.0",
+    "@stream-io/video-react-sdk": "^1.2.14",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.394.0",
