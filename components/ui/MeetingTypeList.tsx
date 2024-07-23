@@ -175,7 +175,7 @@ onClose={()=> setMeetingState(undefined)}
 title="Type the link"
 className="text-center"
 buttonText="Join Meeting"
-handleClick={() => router.push(values.link || "/")}
+handleClick={() => router.push(values.link)}
 
 
 
